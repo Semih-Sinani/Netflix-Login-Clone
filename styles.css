@@ -31,3 +31,14 @@ nav {
 nav a img {
     width: 167px;
 }
+
+.form-wrapper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    border-radius: 4px;
+    padding: 70px;
+    width: 450px;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, .75);
+}
