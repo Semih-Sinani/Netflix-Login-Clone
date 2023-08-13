@@ -27,3 +27,7 @@ nav {
     padding: 25px 60px;
     z-index: 1;
 }
+
+nav a img {
+    width: 167px;
+}
