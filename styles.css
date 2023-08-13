@@ -102,3 +102,6 @@ form button {
     transition: 0.1s ease;
 }
 
+form button:hover {
+    background: #c40812;
+}
