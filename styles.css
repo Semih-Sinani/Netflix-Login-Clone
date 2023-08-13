@@ -21,3 +21,9 @@ body::before {
     background: url("images/hero-img.jpg");
     background-position: center;
 }
+
+nav {
+    position: fixed;
+    padding: 25px 60px;
+    z-index: 1;
+}
